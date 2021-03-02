@@ -26,9 +26,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Mouad Louhichi - Portfolio`,
+        short_name: `Mouad Louhichi`,
+        description: `Mouad Louhichi - Feelfree to contact me`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
